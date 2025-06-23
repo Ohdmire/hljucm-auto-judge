@@ -8,7 +8,7 @@
 // @match        http://*.jwc.hljucm.net/jsxsd/xspj/xspj_edit.do*
 // @match        http://jwc.hljucm.net/jsxsd/framework/xsMain.jsp
 // @grant        none
-// @license      GNU GPLv3
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {

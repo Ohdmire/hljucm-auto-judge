@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         黑龙江中医药大学跳过教务系统alert
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Ohdmire
 // @version      0.1
 // @description  强制跳转alert到指定地址
-// @author       You
+// @author       Ohdmire
 // @match        http://jwc.hljucm.net/jsxsd/xspj/xspj_save.do
 // @run-at       document-start
 // @grant        none

@@ -7,7 +7,7 @@
 // @match        http://jwc.hljucm.net/jsxsd/xspj/xspj_save.do
 // @run-at       document-start
 // @grant        none
-// @license      GPL3
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {

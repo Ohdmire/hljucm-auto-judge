@@ -6,10 +6,9 @@
 // @author       Ohdmire
 // @match        http://*.jwc.hljucm.net/jsxsd/xspj/xspj_list.do*
 // @match        http://*.jwc.hljucm.net/jsxsd/xspj/xspj_edit.do*
-// @match        http://*.jwc.hljucm.net/jsxsd/xspj/xspj_save.do*
 // @match        http://jwc.hljucm.net/jsxsd/framework/xsMain.jsp
 // @grant        none
-// @license      GPL3
+// @license      GNU GPLv3
 // ==/UserScript==
 
 (function() {
